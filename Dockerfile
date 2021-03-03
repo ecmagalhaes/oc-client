@@ -1,6 +1,4 @@
-ARG latest
-
-FROM alpine:$VERSION
+FROM alpine:latest
 
 # Maintainer
 LABEL maintainer                             ecmagalhaes@gmail.com
