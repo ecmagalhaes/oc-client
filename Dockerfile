@@ -1,4 +1,4 @@
-ARG VERSION
+ARG latest
 
 FROM alpine:$VERSION
 
